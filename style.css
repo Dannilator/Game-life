@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: rgb(112, 131, 204);
+}
+
+#action {
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+}
+
+#stop {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  position: absolute;
+  left: 50px;
+  top: 120px;
+}
